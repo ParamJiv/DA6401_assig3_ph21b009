@@ -1,0 +1,16 @@
+{"time":"2025-05-20T16:30:41.6828539+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"d:\\Academic\\Sem 8\\DA6400 - RL\\DL - shivasurya\\wandb\\run-20250520_163041-vrndj7m0\\logs\\debug-core.log"}
+{"time":"2025-05-20T16:30:42.7139982+05:30","level":"INFO","msg":"created new stream","id":"vrndj7m0"}
+{"time":"2025-05-20T16:30:42.7139982+05:30","level":"INFO","msg":"handler: started","stream_id":"vrndj7m0"}
+{"time":"2025-05-20T16:30:42.7139982+05:30","level":"INFO","msg":"sender: started","stream_id":"vrndj7m0"}
+{"time":"2025-05-20T16:30:42.7139982+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"vrndj7m0"}
+{"time":"2025-05-20T16:30:42.7139982+05:30","level":"INFO","msg":"stream: started","id":"vrndj7m0"}
+{"time":"2025-05-20T16:30:43.2456855+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-20T16:30:44.70748+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-05-20T16:30:44.7080249+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-05-20T16:30:45.7222471+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading media\\images\\lstm_connectivity_heatmap_அணியக்கூடாது.png_0_7ebf64f34d841548e49e.png","runtime_seconds":0.2827201,"progress":"338.3KB/338.3KB"},{"desc":"uploading output.log","runtime_seconds":0.2827201},{"desc":"uploading wandb-summary.json","runtime_seconds":0.2827201,"progress":"431B/431B"}],"total_operations":3}}
+{"time":"2025-05-20T16:30:46.8514894+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-05-20T16:30:47.287606+05:30","level":"INFO","msg":"stream: closing","id":"vrndj7m0"}
+{"time":"2025-05-20T16:30:47.287606+05:30","level":"INFO","msg":"handler: closed","stream_id":"vrndj7m0"}
+{"time":"2025-05-20T16:30:47.287606+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"vrndj7m0"}
+{"time":"2025-05-20T16:30:47.287606+05:30","level":"INFO","msg":"sender: closed","stream_id":"vrndj7m0"}
+{"time":"2025-05-20T16:30:47.2886+05:30","level":"INFO","msg":"stream: closed","id":"vrndj7m0"}

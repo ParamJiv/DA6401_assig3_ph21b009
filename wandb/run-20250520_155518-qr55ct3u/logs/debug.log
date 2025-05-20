@@ -1,0 +1,445 @@
+2025-05-20 15:55:18,812 INFO    MainThread:24176 [wandb_init.py:setup_run_log_directory():647] Logging user logs to d:\Academic\Sem 8\DA6400 - RL\DL - shivasurya\wandb\run-20250520_155518-qr55ct3u\logs\debug.log
+2025-05-20 15:55:18,812 INFO    MainThread:24176 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to d:\Academic\Sem 8\DA6400 - RL\DL - shivasurya\wandb\run-20250520_155518-qr55ct3u\logs\debug-internal.log
+2025-05-20 15:55:18,812 INFO    MainThread:24176 [wandb_init.py:init():761] calling init triggers
+2025-05-20 15:55:18,812 INFO    MainThread:24176 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'attention_heatmap': 1, '_wandb': {}}
+2025-05-20 15:55:18,812 INFO    MainThread:24176 [wandb_init.py:init():776] wandb.init() called while a run is active
+2025-05-20 15:55:19,165 INFO    MainThread:24176 [wandb_run.py:_finish():2112] finishing run shivasurya-iit-madras/DA6401-assig-3/hu7ggpix
+2025-05-20 15:55:19,174 INFO    MainThread:24176 [jupyter.py:save_history():458] not saving jupyter history
+2025-05-20 15:55:19,174 INFO    MainThread:24176 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-20 15:55:19,174 INFO    MainThread:24176 [wandb_init.py:_jupyter_teardown():581] cleaning up jupyter logic
+2025-05-20 15:55:19,174 INFO    MainThread:24176 [wandb_run.py:_atexit_cleanup():2340] got exitcode: 0
+2025-05-20 15:55:19,175 INFO    MainThread:24176 [wandb_run.py:_restore():2322] restore
+2025-05-20 15:55:19,175 INFO    MainThread:24176 [wandb_run.py:_restore():2328] restore done
+2025-05-20 15:55:21,494 INFO    MainThread:24176 [wandb_run.py:_footer_history_summary_info():3956] rendering history
+2025-05-20 15:55:21,496 INFO    MainThread:24176 [wandb_run.py:_footer_history_summary_info():3988] rendering summary
+2025-05-20 15:55:21,496 INFO    MainThread:24176 [wandb_run.py:_footer_sync_info():3917] logging synced files
+2025-05-20 15:55:21,517 INFO    MainThread:24176 [wandb_init.py:setup_run_log_directory():647] Logging user logs to d:\Academic\Sem 8\DA6400 - RL\DL - shivasurya\wandb\run-20250520_155521-iqeb1w4c\logs\debug.log
+2025-05-20 15:55:21,517 INFO    MainThread:24176 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to d:\Academic\Sem 8\DA6400 - RL\DL - shivasurya\wandb\run-20250520_155521-iqeb1w4c\logs\debug-internal.log
+2025-05-20 15:55:21,518 INFO    MainThread:24176 [wandb_init.py:monkeypatch_ipython():599] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x0000021F88A28470>
+2025-05-20 15:55:21,518 INFO    MainThread:24176 [wandb_init.py:init():761] calling init triggers
+2025-05-20 15:55:21,518 INFO    MainThread:24176 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'attention_heatmap': 1, '_wandb': {}}
+2025-05-20 15:55:21,518 INFO    MainThread:24176 [wandb_init.py:init():784] starting backend
+2025-05-20 15:55:21,518 INFO    MainThread:24176 [wandb_init.py:init():788] sending inform_init request
+2025-05-20 15:55:21,525 INFO    MainThread:24176 [backend.py:_multiprocessing_setup():101] multiprocessing start_methods=spawn, using: spawn
+2025-05-20 15:55:21,525 INFO    MainThread:24176 [wandb_init.py:init():798] backend started and connected
+2025-05-20 15:55:21,545 INFO    MainThread:24176 [wandb_run.py:_label_probe_notebook():1204] probe notebook
+2025-05-20 15:55:21,609 INFO    MainThread:24176 [wandb_init.py:init():891] updated telemetry
+2025-05-20 15:55:21,613 INFO    MainThread:24176 [wandb_init.py:init():915] communicating run to backend with 90.0 second timeout
+2025-05-20 15:55:22,151 INFO    MainThread:24176 [wandb_init.py:init():990] starting run threads in backend
+2025-05-20 15:55:23,847 INFO    MainThread:24176 [wandb_run.py:_console_start():2375] atexit reg
+2025-05-20 15:55:23,847 INFO    MainThread:24176 [wandb_run.py:_redirect():2227] redirect: wrap_raw
+2025-05-20 15:55:23,847 INFO    MainThread:24176 [wandb_run.py:_redirect():2292] Wrapping output streams.
+2025-05-20 15:55:23,847 INFO    MainThread:24176 [wandb_run.py:_redirect():2315] Redirects installed.
+2025-05-20 15:55:23,848 INFO    MainThread:24176 [wandb_init.py:init():1032] run started, returning control to user process
+2025-05-20 15:55:24,137 INFO    MainThread:24176 [wandb_run.py:_finish():2112] finishing run shivasurya-iit-madras/DA6401-assig-3/iqeb1w4c
+2025-05-20 15:55:24,137 INFO    MainThread:24176 [jupyter.py:save_history():458] not saving jupyter history
+2025-05-20 15:55:24,137 INFO    MainThread:24176 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-20 15:55:24,137 INFO    MainThread:24176 [wandb_init.py:_jupyter_teardown():581] cleaning up jupyter logic
+2025-05-20 15:55:24,138 INFO    MainThread:24176 [wandb_run.py:_atexit_cleanup():2340] got exitcode: 0
+2025-05-20 15:55:24,138 INFO    MainThread:24176 [wandb_run.py:_restore():2322] restore
+2025-05-20 15:55:24,138 INFO    MainThread:24176 [wandb_run.py:_restore():2328] restore done
+2025-05-20 15:55:26,415 INFO    MainThread:24176 [wandb_run.py:_footer_history_summary_info():3956] rendering history
+2025-05-20 15:55:26,415 INFO    MainThread:24176 [wandb_run.py:_footer_history_summary_info():3988] rendering summary
+2025-05-20 15:55:26,415 INFO    MainThread:24176 [wandb_run.py:_footer_sync_info():3917] logging synced files
+2025-05-20 15:55:26,437 INFO    MainThread:24176 [wandb_init.py:setup_run_log_directory():647] Logging user logs to d:\Academic\Sem 8\DA6400 - RL\DL - shivasurya\wandb\run-20250520_155526-6nvzdj9v\logs\debug.log
+2025-05-20 15:55:26,438 INFO    MainThread:24176 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to d:\Academic\Sem 8\DA6400 - RL\DL - shivasurya\wandb\run-20250520_155526-6nvzdj9v\logs\debug-internal.log
+2025-05-20 15:55:26,438 INFO    MainThread:24176 [wandb_init.py:monkeypatch_ipython():599] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x0000021F8E439CD0>
+2025-05-20 15:55:26,438 INFO    MainThread:24176 [wandb_init.py:init():761] calling init triggers
+2025-05-20 15:55:26,438 INFO    MainThread:24176 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'attention_heatmap': 1, '_wandb': {}}
+2025-05-20 15:55:26,439 INFO    MainThread:24176 [wandb_init.py:init():784] starting backend
+2025-05-20 15:55:26,439 INFO    MainThread:24176 [wandb_init.py:init():788] sending inform_init request
+2025-05-20 15:55:26,443 INFO    MainThread:24176 [backend.py:_multiprocessing_setup():101] multiprocessing start_methods=spawn, using: spawn
+2025-05-20 15:55:26,443 INFO    MainThread:24176 [wandb_init.py:init():798] backend started and connected
+2025-05-20 15:55:26,463 INFO    MainThread:24176 [wandb_run.py:_label_probe_notebook():1204] probe notebook
+2025-05-20 15:55:26,530 INFO    MainThread:24176 [wandb_init.py:init():891] updated telemetry
+2025-05-20 15:55:26,535 INFO    MainThread:24176 [wandb_init.py:init():915] communicating run to backend with 90.0 second timeout
+2025-05-20 15:55:27,103 INFO    MainThread:24176 [wandb_init.py:init():990] starting run threads in backend
+2025-05-20 15:55:28,151 INFO    MainThread:24176 [wandb_run.py:_console_start():2375] atexit reg
+2025-05-20 15:55:28,152 INFO    MainThread:24176 [wandb_run.py:_redirect():2227] redirect: wrap_raw
+2025-05-20 15:55:28,152 INFO    MainThread:24176 [wandb_run.py:_redirect():2292] Wrapping output streams.
+2025-05-20 15:55:28,152 INFO    MainThread:24176 [wandb_run.py:_redirect():2315] Redirects installed.
+2025-05-20 15:55:28,153 INFO    MainThread:24176 [wandb_init.py:init():1032] run started, returning control to user process
+2025-05-20 15:55:28,420 INFO    MainThread:24176 [wandb_run.py:_finish():2112] finishing run shivasurya-iit-madras/DA6401-assig-3/6nvzdj9v
+2025-05-20 15:55:28,420 INFO    MainThread:24176 [jupyter.py:save_history():458] not saving jupyter history
+2025-05-20 15:55:28,420 INFO    MainThread:24176 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-20 15:55:28,420 INFO    MainThread:24176 [wandb_init.py:_jupyter_teardown():581] cleaning up jupyter logic
+2025-05-20 15:55:28,420 INFO    MainThread:24176 [wandb_run.py:_atexit_cleanup():2340] got exitcode: 0
+2025-05-20 15:55:28,420 INFO    MainThread:24176 [wandb_run.py:_restore():2322] restore
+2025-05-20 15:55:28,420 INFO    MainThread:24176 [wandb_run.py:_restore():2328] restore done
+2025-05-20 15:55:30,658 INFO    MainThread:24176 [wandb_run.py:_footer_history_summary_info():3956] rendering history
+2025-05-20 15:55:30,658 INFO    MainThread:24176 [wandb_run.py:_footer_history_summary_info():3988] rendering summary
+2025-05-20 15:55:30,658 INFO    MainThread:24176 [wandb_run.py:_footer_sync_info():3917] logging synced files
+2025-05-20 15:55:30,687 INFO    MainThread:24176 [wandb_init.py:setup_run_log_directory():647] Logging user logs to d:\Academic\Sem 8\DA6400 - RL\DL - shivasurya\wandb\run-20250520_155530-7f0rh0e0\logs\debug.log
+2025-05-20 15:55:30,687 INFO    MainThread:24176 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to d:\Academic\Sem 8\DA6400 - RL\DL - shivasurya\wandb\run-20250520_155530-7f0rh0e0\logs\debug-internal.log
+2025-05-20 15:55:30,687 INFO    MainThread:24176 [wandb_init.py:monkeypatch_ipython():599] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x0000021F8E43A570>
+2025-05-20 15:55:30,687 INFO    MainThread:24176 [wandb_init.py:init():761] calling init triggers
+2025-05-20 15:55:30,687 INFO    MainThread:24176 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'attention_heatmap': 1, '_wandb': {}}
+2025-05-20 15:55:30,688 INFO    MainThread:24176 [wandb_init.py:init():784] starting backend
+2025-05-20 15:55:30,688 INFO    MainThread:24176 [wandb_init.py:init():788] sending inform_init request
+2025-05-20 15:55:30,692 INFO    MainThread:24176 [backend.py:_multiprocessing_setup():101] multiprocessing start_methods=spawn, using: spawn
+2025-05-20 15:55:30,693 INFO    MainThread:24176 [wandb_init.py:init():798] backend started and connected
+2025-05-20 15:55:30,709 INFO    MainThread:24176 [wandb_run.py:_label_probe_notebook():1204] probe notebook
+2025-05-20 15:55:30,753 INFO    MainThread:24176 [wandb_init.py:init():891] updated telemetry
+2025-05-20 15:55:30,756 INFO    MainThread:24176 [wandb_init.py:init():915] communicating run to backend with 90.0 second timeout
+2025-05-20 15:55:31,432 INFO    MainThread:24176 [wandb_init.py:init():990] starting run threads in backend
+2025-05-20 15:55:32,399 INFO    MainThread:24176 [wandb_run.py:_console_start():2375] atexit reg
+2025-05-20 15:55:32,399 INFO    MainThread:24176 [wandb_run.py:_redirect():2227] redirect: wrap_raw
+2025-05-20 15:55:32,399 INFO    MainThread:24176 [wandb_run.py:_redirect():2292] Wrapping output streams.
+2025-05-20 15:55:32,399 INFO    MainThread:24176 [wandb_run.py:_redirect():2315] Redirects installed.
+2025-05-20 15:55:32,401 INFO    MainThread:24176 [wandb_init.py:init():1032] run started, returning control to user process
+2025-05-20 15:55:32,729 INFO    MainThread:24176 [wandb_run.py:_finish():2112] finishing run shivasurya-iit-madras/DA6401-assig-3/7f0rh0e0
+2025-05-20 15:55:32,730 INFO    MainThread:24176 [jupyter.py:save_history():458] not saving jupyter history
+2025-05-20 15:55:32,730 INFO    MainThread:24176 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-20 15:55:32,731 INFO    MainThread:24176 [wandb_init.py:_jupyter_teardown():581] cleaning up jupyter logic
+2025-05-20 15:55:32,731 INFO    MainThread:24176 [wandb_run.py:_atexit_cleanup():2340] got exitcode: 0
+2025-05-20 15:55:32,732 INFO    MainThread:24176 [wandb_run.py:_restore():2322] restore
+2025-05-20 15:55:32,733 INFO    MainThread:24176 [wandb_run.py:_restore():2328] restore done
+2025-05-20 15:55:34,888 INFO    MainThread:24176 [wandb_run.py:_footer_history_summary_info():3956] rendering history
+2025-05-20 15:55:34,889 INFO    MainThread:24176 [wandb_run.py:_footer_history_summary_info():3988] rendering summary
+2025-05-20 15:55:34,890 INFO    MainThread:24176 [wandb_run.py:_footer_sync_info():3917] logging synced files
+2025-05-20 15:55:34,958 INFO    MainThread:24176 [wandb_init.py:setup_run_log_directory():647] Logging user logs to d:\Academic\Sem 8\DA6400 - RL\DL - shivasurya\wandb\run-20250520_155534-xp374yho\logs\debug.log
+2025-05-20 15:55:34,959 INFO    MainThread:24176 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to d:\Academic\Sem 8\DA6400 - RL\DL - shivasurya\wandb\run-20250520_155534-xp374yho\logs\debug-internal.log
+2025-05-20 15:55:34,962 INFO    MainThread:24176 [wandb_init.py:monkeypatch_ipython():599] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x0000021F8E46E9F0>
+2025-05-20 15:55:34,962 INFO    MainThread:24176 [wandb_init.py:init():761] calling init triggers
+2025-05-20 15:55:34,963 INFO    MainThread:24176 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'attention_heatmap': 1, '_wandb': {}}
+2025-05-20 15:55:34,963 INFO    MainThread:24176 [wandb_init.py:init():784] starting backend
+2025-05-20 15:55:34,964 INFO    MainThread:24176 [wandb_init.py:init():788] sending inform_init request
+2025-05-20 15:55:34,970 INFO    MainThread:24176 [backend.py:_multiprocessing_setup():101] multiprocessing start_methods=spawn, using: spawn
+2025-05-20 15:55:34,970 INFO    MainThread:24176 [wandb_init.py:init():798] backend started and connected
+2025-05-20 15:55:34,982 INFO    MainThread:24176 [wandb_run.py:_label_probe_notebook():1204] probe notebook
+2025-05-20 15:55:35,003 INFO    MainThread:24176 [wandb_init.py:init():891] updated telemetry
+2025-05-20 15:55:35,008 INFO    MainThread:24176 [wandb_init.py:init():915] communicating run to backend with 90.0 second timeout
+2025-05-20 15:55:35,575 INFO    MainThread:24176 [wandb_init.py:init():990] starting run threads in backend
+2025-05-20 15:55:36,509 INFO    MainThread:24176 [wandb_run.py:_console_start():2375] atexit reg
+2025-05-20 15:55:36,510 INFO    MainThread:24176 [wandb_run.py:_redirect():2227] redirect: wrap_raw
+2025-05-20 15:55:36,510 INFO    MainThread:24176 [wandb_run.py:_redirect():2292] Wrapping output streams.
+2025-05-20 15:55:36,510 INFO    MainThread:24176 [wandb_run.py:_redirect():2315] Redirects installed.
+2025-05-20 15:55:36,511 INFO    MainThread:24176 [wandb_init.py:init():1032] run started, returning control to user process
+2025-05-20 15:55:36,785 INFO    MainThread:24176 [wandb_run.py:_finish():2112] finishing run shivasurya-iit-madras/DA6401-assig-3/xp374yho
+2025-05-20 15:55:36,785 INFO    MainThread:24176 [jupyter.py:save_history():458] not saving jupyter history
+2025-05-20 15:55:36,786 INFO    MainThread:24176 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-20 15:55:36,786 INFO    MainThread:24176 [wandb_init.py:_jupyter_teardown():581] cleaning up jupyter logic
+2025-05-20 15:55:36,786 INFO    MainThread:24176 [wandb_run.py:_atexit_cleanup():2340] got exitcode: 0
+2025-05-20 15:55:36,786 INFO    MainThread:24176 [wandb_run.py:_restore():2322] restore
+2025-05-20 15:55:36,786 INFO    MainThread:24176 [wandb_run.py:_restore():2328] restore done
+2025-05-20 15:55:39,016 INFO    MainThread:24176 [wandb_run.py:_footer_history_summary_info():3956] rendering history
+2025-05-20 15:55:39,017 INFO    MainThread:24176 [wandb_run.py:_footer_history_summary_info():3988] rendering summary
+2025-05-20 15:55:39,017 INFO    MainThread:24176 [wandb_run.py:_footer_sync_info():3917] logging synced files
+2025-05-20 15:55:39,087 INFO    MainThread:24176 [wandb_init.py:setup_run_log_directory():647] Logging user logs to d:\Academic\Sem 8\DA6400 - RL\DL - shivasurya\wandb\run-20250520_155539-vnjgf1ne\logs\debug.log
+2025-05-20 15:55:39,088 INFO    MainThread:24176 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to d:\Academic\Sem 8\DA6400 - RL\DL - shivasurya\wandb\run-20250520_155539-vnjgf1ne\logs\debug-internal.log
+2025-05-20 15:55:39,088 INFO    MainThread:24176 [wandb_init.py:monkeypatch_ipython():599] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x0000021F8E46F320>
+2025-05-20 15:55:39,088 INFO    MainThread:24176 [wandb_init.py:init():761] calling init triggers
+2025-05-20 15:55:39,089 INFO    MainThread:24176 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'attention_heatmap': 1, '_wandb': {}}
+2025-05-20 15:55:39,089 INFO    MainThread:24176 [wandb_init.py:init():784] starting backend
+2025-05-20 15:55:39,089 INFO    MainThread:24176 [wandb_init.py:init():788] sending inform_init request
+2025-05-20 15:55:39,095 INFO    MainThread:24176 [backend.py:_multiprocessing_setup():101] multiprocessing start_methods=spawn, using: spawn
+2025-05-20 15:55:39,095 INFO    MainThread:24176 [wandb_init.py:init():798] backend started and connected
+2025-05-20 15:55:39,109 INFO    MainThread:24176 [wandb_run.py:_label_probe_notebook():1204] probe notebook
+2025-05-20 15:55:39,137 INFO    MainThread:24176 [wandb_init.py:init():891] updated telemetry
+2025-05-20 15:55:39,140 INFO    MainThread:24176 [wandb_init.py:init():915] communicating run to backend with 90.0 second timeout
+2025-05-20 15:55:39,608 INFO    MainThread:24176 [wandb_init.py:init():990] starting run threads in backend
+2025-05-20 15:55:40,589 INFO    MainThread:24176 [wandb_run.py:_console_start():2375] atexit reg
+2025-05-20 15:55:40,589 INFO    MainThread:24176 [wandb_run.py:_redirect():2227] redirect: wrap_raw
+2025-05-20 15:55:40,589 INFO    MainThread:24176 [wandb_run.py:_redirect():2292] Wrapping output streams.
+2025-05-20 15:55:40,589 INFO    MainThread:24176 [wandb_run.py:_redirect():2315] Redirects installed.
+2025-05-20 15:55:40,590 INFO    MainThread:24176 [wandb_init.py:init():1032] run started, returning control to user process
+2025-05-20 15:55:40,860 INFO    MainThread:24176 [wandb_run.py:_finish():2112] finishing run shivasurya-iit-madras/DA6401-assig-3/vnjgf1ne
+2025-05-20 15:55:40,861 INFO    MainThread:24176 [jupyter.py:save_history():458] not saving jupyter history
+2025-05-20 15:55:40,861 INFO    MainThread:24176 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-20 15:55:40,861 INFO    MainThread:24176 [wandb_init.py:_jupyter_teardown():581] cleaning up jupyter logic
+2025-05-20 15:55:40,861 INFO    MainThread:24176 [wandb_run.py:_atexit_cleanup():2340] got exitcode: 0
+2025-05-20 15:55:40,861 INFO    MainThread:24176 [wandb_run.py:_restore():2322] restore
+2025-05-20 15:55:40,861 INFO    MainThread:24176 [wandb_run.py:_restore():2328] restore done
+2025-05-20 15:55:42,989 INFO    MainThread:24176 [wandb_run.py:_footer_history_summary_info():3956] rendering history
+2025-05-20 15:55:42,991 INFO    MainThread:24176 [wandb_run.py:_footer_history_summary_info():3988] rendering summary
+2025-05-20 15:55:42,992 INFO    MainThread:24176 [wandb_run.py:_footer_sync_info():3917] logging synced files
+2025-05-20 15:55:43,050 INFO    MainThread:24176 [wandb_init.py:setup_run_log_directory():647] Logging user logs to d:\Academic\Sem 8\DA6400 - RL\DL - shivasurya\wandb\run-20250520_155543-tg9dbrah\logs\debug.log
+2025-05-20 15:55:43,051 INFO    MainThread:24176 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to d:\Academic\Sem 8\DA6400 - RL\DL - shivasurya\wandb\run-20250520_155543-tg9dbrah\logs\debug-internal.log
+2025-05-20 15:55:43,051 INFO    MainThread:24176 [wandb_init.py:monkeypatch_ipython():599] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x0000021F8E46F9B0>
+2025-05-20 15:55:43,052 INFO    MainThread:24176 [wandb_init.py:init():761] calling init triggers
+2025-05-20 15:55:43,052 INFO    MainThread:24176 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'attention_heatmap': 1, '_wandb': {}}
+2025-05-20 15:55:43,053 INFO    MainThread:24176 [wandb_init.py:init():784] starting backend
+2025-05-20 15:55:43,053 INFO    MainThread:24176 [wandb_init.py:init():788] sending inform_init request
+2025-05-20 15:55:43,059 INFO    MainThread:24176 [backend.py:_multiprocessing_setup():101] multiprocessing start_methods=spawn, using: spawn
+2025-05-20 15:55:43,059 INFO    MainThread:24176 [wandb_init.py:init():798] backend started and connected
+2025-05-20 15:55:43,069 INFO    MainThread:24176 [wandb_run.py:_label_probe_notebook():1204] probe notebook
+2025-05-20 15:55:43,099 INFO    MainThread:24176 [wandb_init.py:init():891] updated telemetry
+2025-05-20 15:55:43,102 INFO    MainThread:24176 [wandb_init.py:init():915] communicating run to backend with 90.0 second timeout
+2025-05-20 15:55:44,352 INFO    MainThread:24176 [wandb_init.py:init():990] starting run threads in backend
+2025-05-20 15:55:45,344 INFO    MainThread:24176 [wandb_run.py:_console_start():2375] atexit reg
+2025-05-20 15:55:45,344 INFO    MainThread:24176 [wandb_run.py:_redirect():2227] redirect: wrap_raw
+2025-05-20 15:55:45,344 INFO    MainThread:24176 [wandb_run.py:_redirect():2292] Wrapping output streams.
+2025-05-20 15:55:45,345 INFO    MainThread:24176 [wandb_run.py:_redirect():2315] Redirects installed.
+2025-05-20 15:55:45,345 INFO    MainThread:24176 [wandb_init.py:init():1032] run started, returning control to user process
+2025-05-20 15:55:45,589 INFO    MainThread:24176 [wandb_run.py:_finish():2112] finishing run shivasurya-iit-madras/DA6401-assig-3/tg9dbrah
+2025-05-20 15:55:45,591 INFO    MainThread:24176 [jupyter.py:save_history():458] not saving jupyter history
+2025-05-20 15:55:45,591 INFO    MainThread:24176 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-20 15:55:45,591 INFO    MainThread:24176 [wandb_init.py:_jupyter_teardown():581] cleaning up jupyter logic
+2025-05-20 15:55:45,591 INFO    MainThread:24176 [wandb_run.py:_atexit_cleanup():2340] got exitcode: 0
+2025-05-20 15:55:45,591 INFO    MainThread:24176 [wandb_run.py:_restore():2322] restore
+2025-05-20 15:55:45,591 INFO    MainThread:24176 [wandb_run.py:_restore():2328] restore done
+2025-05-20 15:55:48,120 INFO    MainThread:24176 [wandb_run.py:_footer_history_summary_info():3956] rendering history
+2025-05-20 15:55:48,121 INFO    MainThread:24176 [wandb_run.py:_footer_history_summary_info():3988] rendering summary
+2025-05-20 15:55:48,121 INFO    MainThread:24176 [wandb_run.py:_footer_sync_info():3917] logging synced files
+2025-05-20 15:55:48,137 INFO    MainThread:24176 [wandb_init.py:setup_run_log_directory():647] Logging user logs to d:\Academic\Sem 8\DA6400 - RL\DL - shivasurya\wandb\run-20250520_155548-mahuy2ka\logs\debug.log
+2025-05-20 15:55:48,138 INFO    MainThread:24176 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to d:\Academic\Sem 8\DA6400 - RL\DL - shivasurya\wandb\run-20250520_155548-mahuy2ka\logs\debug-internal.log
+2025-05-20 15:55:48,138 INFO    MainThread:24176 [wandb_init.py:monkeypatch_ipython():599] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x0000021F8E48B110>
+2025-05-20 15:55:48,138 INFO    MainThread:24176 [wandb_init.py:init():761] calling init triggers
+2025-05-20 15:55:48,138 INFO    MainThread:24176 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'attention_heatmap': 1, '_wandb': {}}
+2025-05-20 15:55:48,139 INFO    MainThread:24176 [wandb_init.py:init():784] starting backend
+2025-05-20 15:55:48,139 INFO    MainThread:24176 [wandb_init.py:init():788] sending inform_init request
+2025-05-20 15:55:48,142 INFO    MainThread:24176 [backend.py:_multiprocessing_setup():101] multiprocessing start_methods=spawn, using: spawn
+2025-05-20 15:55:48,142 INFO    MainThread:24176 [wandb_init.py:init():798] backend started and connected
+2025-05-20 15:55:48,152 INFO    MainThread:24176 [wandb_run.py:_label_probe_notebook():1204] probe notebook
+2025-05-20 15:55:48,186 INFO    MainThread:24176 [wandb_init.py:init():891] updated telemetry
+2025-05-20 15:55:48,188 INFO    MainThread:24176 [wandb_init.py:init():915] communicating run to backend with 90.0 second timeout
+2025-05-20 15:55:48,610 INFO    MainThread:24176 [wandb_init.py:init():990] starting run threads in backend
+2025-05-20 15:55:49,534 INFO    MainThread:24176 [wandb_run.py:_console_start():2375] atexit reg
+2025-05-20 15:55:49,534 INFO    MainThread:24176 [wandb_run.py:_redirect():2227] redirect: wrap_raw
+2025-05-20 15:55:49,535 INFO    MainThread:24176 [wandb_run.py:_redirect():2292] Wrapping output streams.
+2025-05-20 15:55:49,535 INFO    MainThread:24176 [wandb_run.py:_redirect():2315] Redirects installed.
+2025-05-20 15:55:49,536 INFO    MainThread:24176 [wandb_init.py:init():1032] run started, returning control to user process
+2025-05-20 15:55:49,784 INFO    MainThread:24176 [wandb_run.py:_finish():2112] finishing run shivasurya-iit-madras/DA6401-assig-3/mahuy2ka
+2025-05-20 15:55:49,784 INFO    MainThread:24176 [jupyter.py:save_history():458] not saving jupyter history
+2025-05-20 15:55:49,784 INFO    MainThread:24176 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-20 15:55:49,784 INFO    MainThread:24176 [wandb_init.py:_jupyter_teardown():581] cleaning up jupyter logic
+2025-05-20 15:55:49,784 INFO    MainThread:24176 [wandb_run.py:_atexit_cleanup():2340] got exitcode: 0
+2025-05-20 15:55:49,785 INFO    MainThread:24176 [wandb_run.py:_restore():2322] restore
+2025-05-20 15:55:49,785 INFO    MainThread:24176 [wandb_run.py:_restore():2328] restore done
+2025-05-20 15:55:52,264 INFO    MainThread:24176 [wandb_run.py:_footer_history_summary_info():3956] rendering history
+2025-05-20 15:55:52,265 INFO    MainThread:24176 [wandb_run.py:_footer_history_summary_info():3988] rendering summary
+2025-05-20 15:55:52,266 INFO    MainThread:24176 [wandb_run.py:_footer_sync_info():3917] logging synced files
+2025-05-20 15:55:52,327 INFO    MainThread:24176 [wandb_init.py:setup_run_log_directory():647] Logging user logs to d:\Academic\Sem 8\DA6400 - RL\DL - shivasurya\wandb\run-20250520_155552-m236ztih\logs\debug.log
+2025-05-20 15:55:52,328 INFO    MainThread:24176 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to d:\Academic\Sem 8\DA6400 - RL\DL - shivasurya\wandb\run-20250520_155552-m236ztih\logs\debug-internal.log
+2025-05-20 15:55:52,330 INFO    MainThread:24176 [wandb_init.py:monkeypatch_ipython():599] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x0000021F8E43B1A0>
+2025-05-20 15:55:52,330 INFO    MainThread:24176 [wandb_init.py:init():761] calling init triggers
+2025-05-20 15:55:52,330 INFO    MainThread:24176 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'attention_heatmap': 1, '_wandb': {}}
+2025-05-20 15:55:52,331 INFO    MainThread:24176 [wandb_init.py:init():784] starting backend
+2025-05-20 15:55:52,332 INFO    MainThread:24176 [wandb_init.py:init():788] sending inform_init request
+2025-05-20 15:55:52,345 INFO    MainThread:24176 [backend.py:_multiprocessing_setup():101] multiprocessing start_methods=spawn, using: spawn
+2025-05-20 15:55:52,345 INFO    MainThread:24176 [wandb_init.py:init():798] backend started and connected
+2025-05-20 15:55:52,361 INFO    MainThread:24176 [wandb_run.py:_label_probe_notebook():1204] probe notebook
+2025-05-20 15:55:52,394 INFO    MainThread:24176 [wandb_init.py:init():891] updated telemetry
+2025-05-20 15:55:52,402 INFO    MainThread:24176 [wandb_init.py:init():915] communicating run to backend with 90.0 second timeout
+2025-05-20 15:55:52,802 INFO    MainThread:24176 [wandb_init.py:init():990] starting run threads in backend
+2025-05-20 15:55:53,951 INFO    MainThread:24176 [wandb_run.py:_console_start():2375] atexit reg
+2025-05-20 15:55:53,951 INFO    MainThread:24176 [wandb_run.py:_redirect():2227] redirect: wrap_raw
+2025-05-20 15:55:53,951 INFO    MainThread:24176 [wandb_run.py:_redirect():2292] Wrapping output streams.
+2025-05-20 15:55:53,952 INFO    MainThread:24176 [wandb_run.py:_redirect():2315] Redirects installed.
+2025-05-20 15:55:53,954 INFO    MainThread:24176 [wandb_init.py:init():1032] run started, returning control to user process
+2025-05-20 15:55:54,278 INFO    MainThread:24176 [wandb_run.py:_finish():2112] finishing run shivasurya-iit-madras/DA6401-assig-3/m236ztih
+2025-05-20 15:55:54,278 INFO    MainThread:24176 [jupyter.py:save_history():458] not saving jupyter history
+2025-05-20 15:55:54,279 INFO    MainThread:24176 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-20 15:55:54,279 INFO    MainThread:24176 [wandb_init.py:_jupyter_teardown():581] cleaning up jupyter logic
+2025-05-20 15:55:54,279 INFO    MainThread:24176 [wandb_run.py:_atexit_cleanup():2340] got exitcode: 0
+2025-05-20 15:55:54,280 INFO    MainThread:24176 [wandb_run.py:_restore():2322] restore
+2025-05-20 15:55:54,281 INFO    MainThread:24176 [wandb_run.py:_restore():2328] restore done
+2025-05-20 15:55:56,315 INFO    MainThread:24176 [wandb_run.py:_footer_history_summary_info():3956] rendering history
+2025-05-20 15:55:56,315 INFO    MainThread:24176 [wandb_run.py:_footer_history_summary_info():3988] rendering summary
+2025-05-20 15:55:56,315 INFO    MainThread:24176 [wandb_run.py:_footer_sync_info():3917] logging synced files
+2025-05-20 15:55:56,337 INFO    MainThread:24176 [wandb_init.py:setup_run_log_directory():647] Logging user logs to d:\Academic\Sem 8\DA6400 - RL\DL - shivasurya\wandb\run-20250520_155556-rjnja58y\logs\debug.log
+2025-05-20 15:55:56,338 INFO    MainThread:24176 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to d:\Academic\Sem 8\DA6400 - RL\DL - shivasurya\wandb\run-20250520_155556-rjnja58y\logs\debug-internal.log
+2025-05-20 15:55:56,338 INFO    MainThread:24176 [wandb_init.py:monkeypatch_ipython():599] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x0000021F8E41E060>
+2025-05-20 15:55:56,338 INFO    MainThread:24176 [wandb_init.py:init():761] calling init triggers
+2025-05-20 15:55:56,338 INFO    MainThread:24176 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'attention_heatmap': 1, '_wandb': {}}
+2025-05-20 15:55:56,339 INFO    MainThread:24176 [wandb_init.py:init():784] starting backend
+2025-05-20 15:55:56,339 INFO    MainThread:24176 [wandb_init.py:init():788] sending inform_init request
+2025-05-20 15:55:56,344 INFO    MainThread:24176 [backend.py:_multiprocessing_setup():101] multiprocessing start_methods=spawn, using: spawn
+2025-05-20 15:55:56,344 INFO    MainThread:24176 [wandb_init.py:init():798] backend started and connected
+2025-05-20 15:55:56,373 INFO    MainThread:24176 [wandb_run.py:_label_probe_notebook():1204] probe notebook
+2025-05-20 15:55:56,410 INFO    MainThread:24176 [wandb_init.py:init():891] updated telemetry
+2025-05-20 15:55:56,414 INFO    MainThread:24176 [wandb_init.py:init():915] communicating run to backend with 90.0 second timeout
+2025-05-20 15:55:56,963 INFO    MainThread:24176 [wandb_init.py:init():990] starting run threads in backend
+2025-05-20 15:55:58,207 INFO    MainThread:24176 [wandb_run.py:_console_start():2375] atexit reg
+2025-05-20 15:55:58,208 INFO    MainThread:24176 [wandb_run.py:_redirect():2227] redirect: wrap_raw
+2025-05-20 15:55:58,208 INFO    MainThread:24176 [wandb_run.py:_redirect():2292] Wrapping output streams.
+2025-05-20 15:55:58,208 INFO    MainThread:24176 [wandb_run.py:_redirect():2315] Redirects installed.
+2025-05-20 15:55:58,209 INFO    MainThread:24176 [wandb_init.py:init():1032] run started, returning control to user process
+2025-05-20 15:55:58,574 INFO    MainThread:24176 [wandb_run.py:_finish():2112] finishing run shivasurya-iit-madras/DA6401-assig-3/rjnja58y
+2025-05-20 15:55:58,575 INFO    MainThread:24176 [jupyter.py:save_history():458] not saving jupyter history
+2025-05-20 15:55:58,575 INFO    MainThread:24176 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-20 15:55:58,575 INFO    MainThread:24176 [wandb_init.py:_jupyter_teardown():581] cleaning up jupyter logic
+2025-05-20 15:55:58,575 INFO    MainThread:24176 [wandb_run.py:_atexit_cleanup():2340] got exitcode: 0
+2025-05-20 15:55:58,575 INFO    MainThread:24176 [wandb_run.py:_restore():2322] restore
+2025-05-20 15:55:58,576 INFO    MainThread:24176 [wandb_run.py:_restore():2328] restore done
+2025-05-20 15:56:00,797 INFO    MainThread:24176 [wandb_run.py:_footer_history_summary_info():3956] rendering history
+2025-05-20 15:56:00,798 INFO    MainThread:24176 [wandb_run.py:_footer_history_summary_info():3988] rendering summary
+2025-05-20 15:56:00,799 INFO    MainThread:24176 [wandb_run.py:_footer_sync_info():3917] logging synced files
+2025-05-20 16:13:01,108 INFO    MainThread:24176 [wandb_init.py:setup_run_log_directory():647] Logging user logs to d:\Academic\Sem 8\DA6400 - RL\DL - shivasurya\wandb\run-20250520_161301-j7p5vy7m\logs\debug.log
+2025-05-20 16:13:01,112 INFO    MainThread:24176 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to d:\Academic\Sem 8\DA6400 - RL\DL - shivasurya\wandb\run-20250520_161301-j7p5vy7m\logs\debug-internal.log
+2025-05-20 16:13:01,113 INFO    MainThread:24176 [wandb_init.py:monkeypatch_ipython():599] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x0000021F88A2A150>
+2025-05-20 16:13:01,116 INFO    MainThread:24176 [wandb_init.py:init():761] calling init triggers
+2025-05-20 16:13:01,117 INFO    MainThread:24176 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'attention_heatmap': 1, '_wandb': {}}
+2025-05-20 16:13:01,118 INFO    MainThread:24176 [wandb_init.py:init():784] starting backend
+2025-05-20 16:13:01,118 INFO    MainThread:24176 [wandb_init.py:init():788] sending inform_init request
+2025-05-20 16:13:01,158 INFO    MainThread:24176 [backend.py:_multiprocessing_setup():101] multiprocessing start_methods=spawn, using: spawn
+2025-05-20 16:13:01,162 INFO    MainThread:24176 [wandb_init.py:init():798] backend started and connected
+2025-05-20 16:13:01,352 INFO    MainThread:24176 [wandb_run.py:_label_probe_notebook():1204] probe notebook
+2025-05-20 16:13:01,453 INFO    MainThread:24176 [wandb_init.py:init():891] updated telemetry
+2025-05-20 16:13:01,462 INFO    MainThread:24176 [wandb_init.py:init():915] communicating run to backend with 90.0 second timeout
+2025-05-20 16:13:02,481 WARNING MainThread:24176 [wandb_init.py:init():1472] interrupted
+Traceback (most recent call last):
+  File "c:\Users\PARAM\anaconda3\Lib\site-packages\wandb\sdk\wandb_init.py", line 1468, in init
+    return wi.init(run_settings, run_config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\PARAM\anaconda3\Lib\site-packages\wandb\sdk\wandb_init.py", line 941, in init
+    result = wait_with_progress(
+             ^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\PARAM\anaconda3\Lib\site-packages\wandb\sdk\mailbox\wait_with_progress.py", line 24, in wait_with_progress
+    return wait_all_with_progress(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\PARAM\anaconda3\Lib\site-packages\wandb\sdk\mailbox\wait_with_progress.py", line 70, in wait_all_with_progress
+    return _wait_handles(handle_list, timeout=progress_after)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\PARAM\anaconda3\Lib\site-packages\wandb\sdk\mailbox\wait_with_progress.py", line 110, in _wait_handles
+    results.append(handle.wait_or(timeout=remaining_timeout))
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\PARAM\anaconda3\Lib\site-packages\wandb\sdk\mailbox\mailbox_handle.py", line 122, in wait_or
+    return self._fn(self._handle.wait_or(timeout=timeout))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\PARAM\anaconda3\Lib\site-packages\wandb\sdk\mailbox\response_handle.py", line 88, in wait_or
+    if not self._event.wait(timeout=timeout):
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\PARAM\anaconda3\Lib\threading.py", line 655, in wait
+    signaled = self._cond.wait(timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\PARAM\anaconda3\Lib\threading.py", line 359, in wait
+    gotit = waiter.acquire(True, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt
+2025-05-20 16:30:29,329 INFO    MainThread:24176 [wandb_init.py:setup_run_log_directory():647] Logging user logs to d:\Academic\Sem 8\DA6400 - RL\DL - shivasurya\wandb\run-20250520_163029-intnzlf9\logs\debug.log
+2025-05-20 16:30:29,336 INFO    MainThread:24176 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to d:\Academic\Sem 8\DA6400 - RL\DL - shivasurya\wandb\run-20250520_163029-intnzlf9\logs\debug-internal.log
+2025-05-20 16:30:29,341 INFO    MainThread:24176 [wandb_init.py:init():761] calling init triggers
+2025-05-20 16:30:29,343 INFO    MainThread:24176 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'connectivity': 1, '_wandb': {}}
+2025-05-20 16:30:29,343 INFO    MainThread:24176 [wandb_init.py:init():784] starting backend
+2025-05-20 16:30:29,344 INFO    MainThread:24176 [wandb_init.py:init():788] sending inform_init request
+2025-05-20 16:30:29,403 INFO    MainThread:24176 [backend.py:_multiprocessing_setup():101] multiprocessing start_methods=spawn, using: spawn
+2025-05-20 16:30:29,406 INFO    MainThread:24176 [wandb_init.py:init():798] backend started and connected
+2025-05-20 16:30:29,780 INFO    MainThread:24176 [wandb_run.py:_label_probe_notebook():1204] probe notebook
+2025-05-20 16:30:29,873 INFO    MainThread:24176 [wandb_init.py:init():891] updated telemetry
+2025-05-20 16:30:29,908 INFO    MainThread:24176 [wandb_init.py:init():915] communicating run to backend with 90.0 second timeout
+2025-05-20 16:30:31,575 INFO    MainThread:24176 [wandb_init.py:init():990] starting run threads in backend
+2025-05-20 16:30:33,870 INFO    MainThread:24176 [wandb_run.py:_console_start():2375] atexit reg
+2025-05-20 16:30:33,871 INFO    MainThread:24176 [wandb_run.py:_redirect():2227] redirect: wrap_raw
+2025-05-20 16:30:33,872 INFO    MainThread:24176 [wandb_run.py:_redirect():2292] Wrapping output streams.
+2025-05-20 16:30:33,873 INFO    MainThread:24176 [wandb_run.py:_redirect():2315] Redirects installed.
+2025-05-20 16:30:33,877 INFO    MainThread:24176 [wandb_init.py:init():1032] run started, returning control to user process
+2025-05-20 16:30:34,218 INFO    MainThread:24176 [wandb_run.py:_finish():2112] finishing run shivasurya-iit-madras/DA6401-assig-3/intnzlf9
+2025-05-20 16:30:34,219 INFO    MainThread:24176 [wandb_run.py:_atexit_cleanup():2340] got exitcode: 0
+2025-05-20 16:30:34,220 INFO    MainThread:24176 [wandb_run.py:_restore():2322] restore
+2025-05-20 16:30:34,220 INFO    MainThread:24176 [wandb_run.py:_restore():2328] restore done
+2025-05-20 16:30:36,685 INFO    MainThread:24176 [wandb_run.py:_footer_history_summary_info():3956] rendering history
+2025-05-20 16:30:36,685 INFO    MainThread:24176 [wandb_run.py:_footer_history_summary_info():3988] rendering summary
+2025-05-20 16:30:36,686 INFO    MainThread:24176 [wandb_run.py:_footer_sync_info():3917] logging synced files
+2025-05-20 16:30:36,762 INFO    MainThread:24176 [wandb_init.py:setup_run_log_directory():647] Logging user logs to d:\Academic\Sem 8\DA6400 - RL\DL - shivasurya\wandb\run-20250520_163036-r0e4qkw1\logs\debug.log
+2025-05-20 16:30:36,763 INFO    MainThread:24176 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to d:\Academic\Sem 8\DA6400 - RL\DL - shivasurya\wandb\run-20250520_163036-r0e4qkw1\logs\debug-internal.log
+2025-05-20 16:30:36,765 INFO    MainThread:24176 [wandb_init.py:init():761] calling init triggers
+2025-05-20 16:30:36,765 INFO    MainThread:24176 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'connectivity': 1, '_wandb': {}}
+2025-05-20 16:30:36,766 INFO    MainThread:24176 [wandb_init.py:init():784] starting backend
+2025-05-20 16:30:36,767 INFO    MainThread:24176 [wandb_init.py:init():788] sending inform_init request
+2025-05-20 16:30:36,772 INFO    MainThread:24176 [backend.py:_multiprocessing_setup():101] multiprocessing start_methods=spawn, using: spawn
+2025-05-20 16:30:36,773 INFO    MainThread:24176 [wandb_init.py:init():798] backend started and connected
+2025-05-20 16:30:36,816 INFO    MainThread:24176 [wandb_run.py:_label_probe_notebook():1204] probe notebook
+2025-05-20 16:30:36,844 INFO    MainThread:24176 [wandb_init.py:init():891] updated telemetry
+2025-05-20 16:30:36,847 INFO    MainThread:24176 [wandb_init.py:init():915] communicating run to backend with 90.0 second timeout
+2025-05-20 16:30:37,520 INFO    MainThread:24176 [wandb_init.py:init():990] starting run threads in backend
+2025-05-20 16:30:38,615 INFO    MainThread:24176 [wandb_run.py:_console_start():2375] atexit reg
+2025-05-20 16:30:38,616 INFO    MainThread:24176 [wandb_run.py:_redirect():2227] redirect: wrap_raw
+2025-05-20 16:30:38,616 INFO    MainThread:24176 [wandb_run.py:_redirect():2292] Wrapping output streams.
+2025-05-20 16:30:38,616 INFO    MainThread:24176 [wandb_run.py:_redirect():2315] Redirects installed.
+2025-05-20 16:30:38,617 INFO    MainThread:24176 [wandb_init.py:init():1032] run started, returning control to user process
+2025-05-20 16:30:38,866 INFO    MainThread:24176 [wandb_run.py:_finish():2112] finishing run shivasurya-iit-madras/DA6401-assig-3/r0e4qkw1
+2025-05-20 16:30:38,866 INFO    MainThread:24176 [wandb_run.py:_atexit_cleanup():2340] got exitcode: 0
+2025-05-20 16:30:38,867 INFO    MainThread:24176 [wandb_run.py:_restore():2322] restore
+2025-05-20 16:30:38,867 INFO    MainThread:24176 [wandb_run.py:_restore():2328] restore done
+2025-05-20 16:30:41,592 INFO    MainThread:24176 [wandb_run.py:_footer_history_summary_info():3956] rendering history
+2025-05-20 16:30:41,594 INFO    MainThread:24176 [wandb_run.py:_footer_history_summary_info():3988] rendering summary
+2025-05-20 16:30:41,594 INFO    MainThread:24176 [wandb_run.py:_footer_sync_info():3917] logging synced files
+2025-05-20 16:30:41,662 INFO    MainThread:24176 [wandb_init.py:setup_run_log_directory():647] Logging user logs to d:\Academic\Sem 8\DA6400 - RL\DL - shivasurya\wandb\run-20250520_163041-vrndj7m0\logs\debug.log
+2025-05-20 16:30:41,663 INFO    MainThread:24176 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to d:\Academic\Sem 8\DA6400 - RL\DL - shivasurya\wandb\run-20250520_163041-vrndj7m0\logs\debug-internal.log
+2025-05-20 16:30:41,664 INFO    MainThread:24176 [wandb_init.py:init():761] calling init triggers
+2025-05-20 16:30:41,664 INFO    MainThread:24176 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'connectivity': 1, '_wandb': {}}
+2025-05-20 16:30:41,665 INFO    MainThread:24176 [wandb_init.py:init():784] starting backend
+2025-05-20 16:30:41,666 INFO    MainThread:24176 [wandb_init.py:init():788] sending inform_init request
+2025-05-20 16:30:41,681 INFO    MainThread:24176 [backend.py:_multiprocessing_setup():101] multiprocessing start_methods=spawn, using: spawn
+2025-05-20 16:30:41,682 INFO    MainThread:24176 [wandb_init.py:init():798] backend started and connected
+2025-05-20 16:30:41,697 INFO    MainThread:24176 [wandb_run.py:_label_probe_notebook():1204] probe notebook
+2025-05-20 16:30:41,734 INFO    MainThread:24176 [wandb_init.py:init():891] updated telemetry
+2025-05-20 16:30:41,740 INFO    MainThread:24176 [wandb_init.py:init():915] communicating run to backend with 90.0 second timeout
+2025-05-20 16:30:43,234 INFO    MainThread:24176 [wandb_init.py:init():990] starting run threads in backend
+2025-05-20 16:30:44,443 INFO    MainThread:24176 [wandb_run.py:_console_start():2375] atexit reg
+2025-05-20 16:30:44,443 INFO    MainThread:24176 [wandb_run.py:_redirect():2227] redirect: wrap_raw
+2025-05-20 16:30:44,443 INFO    MainThread:24176 [wandb_run.py:_redirect():2292] Wrapping output streams.
+2025-05-20 16:30:44,443 INFO    MainThread:24176 [wandb_run.py:_redirect():2315] Redirects installed.
+2025-05-20 16:30:44,444 INFO    MainThread:24176 [wandb_init.py:init():1032] run started, returning control to user process
+2025-05-20 16:30:44,706 INFO    MainThread:24176 [wandb_run.py:_finish():2112] finishing run shivasurya-iit-madras/DA6401-assig-3/vrndj7m0
+2025-05-20 16:30:44,706 INFO    MainThread:24176 [wandb_run.py:_atexit_cleanup():2340] got exitcode: 0
+2025-05-20 16:30:44,706 INFO    MainThread:24176 [wandb_run.py:_restore():2322] restore
+2025-05-20 16:30:44,707 INFO    MainThread:24176 [wandb_run.py:_restore():2328] restore done
+2025-05-20 16:30:47,263 INFO    MainThread:24176 [wandb_run.py:_footer_history_summary_info():3956] rendering history
+2025-05-20 16:30:47,264 INFO    MainThread:24176 [wandb_run.py:_footer_history_summary_info():3988] rendering summary
+2025-05-20 16:30:47,265 INFO    MainThread:24176 [wandb_run.py:_footer_sync_info():3917] logging synced files
+2025-05-20 16:30:47,327 INFO    MainThread:24176 [wandb_init.py:setup_run_log_directory():647] Logging user logs to d:\Academic\Sem 8\DA6400 - RL\DL - shivasurya\wandb\run-20250520_163047-77txrmvw\logs\debug.log
+2025-05-20 16:30:47,329 INFO    MainThread:24176 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to d:\Academic\Sem 8\DA6400 - RL\DL - shivasurya\wandb\run-20250520_163047-77txrmvw\logs\debug-internal.log
+2025-05-20 16:30:47,329 INFO    MainThread:24176 [wandb_init.py:init():761] calling init triggers
+2025-05-20 16:30:47,329 INFO    MainThread:24176 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'connectivity': 1, '_wandb': {}}
+2025-05-20 16:30:47,330 INFO    MainThread:24176 [wandb_init.py:init():784] starting backend
+2025-05-20 16:30:47,330 INFO    MainThread:24176 [wandb_init.py:init():788] sending inform_init request
+2025-05-20 16:30:47,337 INFO    MainThread:24176 [backend.py:_multiprocessing_setup():101] multiprocessing start_methods=spawn, using: spawn
+2025-05-20 16:30:47,337 INFO    MainThread:24176 [wandb_init.py:init():798] backend started and connected
+2025-05-20 16:30:47,345 INFO    MainThread:24176 [wandb_run.py:_label_probe_notebook():1204] probe notebook
+2025-05-20 16:30:47,374 INFO    MainThread:24176 [wandb_init.py:init():891] updated telemetry
+2025-05-20 16:30:47,379 INFO    MainThread:24176 [wandb_init.py:init():915] communicating run to backend with 90.0 second timeout
+2025-05-20 16:30:47,946 INFO    MainThread:24176 [wandb_init.py:init():990] starting run threads in backend
+2025-05-20 16:30:49,275 INFO    MainThread:24176 [wandb_run.py:_console_start():2375] atexit reg
+2025-05-20 16:30:49,275 INFO    MainThread:24176 [wandb_run.py:_redirect():2227] redirect: wrap_raw
+2025-05-20 16:30:49,275 INFO    MainThread:24176 [wandb_run.py:_redirect():2292] Wrapping output streams.
+2025-05-20 16:30:49,276 INFO    MainThread:24176 [wandb_run.py:_redirect():2315] Redirects installed.
+2025-05-20 16:30:49,276 INFO    MainThread:24176 [wandb_init.py:init():1032] run started, returning control to user process
+2025-05-20 16:30:49,562 INFO    MainThread:24176 [wandb_run.py:_finish():2112] finishing run shivasurya-iit-madras/DA6401-assig-3/77txrmvw
+2025-05-20 16:30:49,563 INFO    MainThread:24176 [wandb_run.py:_atexit_cleanup():2340] got exitcode: 0
+2025-05-20 16:30:49,565 INFO    MainThread:24176 [wandb_run.py:_restore():2322] restore
+2025-05-20 16:30:49,565 INFO    MainThread:24176 [wandb_run.py:_restore():2328] restore done
+2025-05-20 16:30:52,152 INFO    MainThread:24176 [wandb_run.py:_footer_history_summary_info():3956] rendering history
+2025-05-20 16:30:52,153 INFO    MainThread:24176 [wandb_run.py:_footer_history_summary_info():3988] rendering summary
+2025-05-20 16:30:52,155 INFO    MainThread:24176 [wandb_run.py:_footer_sync_info():3917] logging synced files
+2025-05-20 16:30:52,228 INFO    MainThread:24176 [wandb_init.py:setup_run_log_directory():647] Logging user logs to d:\Academic\Sem 8\DA6400 - RL\DL - shivasurya\wandb\run-20250520_163052-u00fam3a\logs\debug.log
+2025-05-20 16:30:52,229 INFO    MainThread:24176 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to d:\Academic\Sem 8\DA6400 - RL\DL - shivasurya\wandb\run-20250520_163052-u00fam3a\logs\debug-internal.log
+2025-05-20 16:30:52,230 INFO    MainThread:24176 [wandb_init.py:init():761] calling init triggers
+2025-05-20 16:30:52,231 INFO    MainThread:24176 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'connectivity': 1, '_wandb': {}}
+2025-05-20 16:30:52,231 INFO    MainThread:24176 [wandb_init.py:init():784] starting backend
+2025-05-20 16:30:52,232 INFO    MainThread:24176 [wandb_init.py:init():788] sending inform_init request
+2025-05-20 16:30:52,236 INFO    MainThread:24176 [backend.py:_multiprocessing_setup():101] multiprocessing start_methods=spawn, using: spawn
+2025-05-20 16:30:52,237 INFO    MainThread:24176 [wandb_init.py:init():798] backend started and connected
+2025-05-20 16:30:52,245 INFO    MainThread:24176 [wandb_run.py:_label_probe_notebook():1204] probe notebook
+2025-05-20 16:30:52,270 INFO    MainThread:24176 [wandb_init.py:init():891] updated telemetry
+2025-05-20 16:30:52,273 INFO    MainThread:24176 [wandb_init.py:init():915] communicating run to backend with 90.0 second timeout
+2025-05-20 16:30:52,714 INFO    MainThread:24176 [wandb_init.py:init():990] starting run threads in backend
+2025-05-20 16:30:53,996 INFO    MainThread:24176 [wandb_run.py:_console_start():2375] atexit reg
+2025-05-20 16:30:53,996 INFO    MainThread:24176 [wandb_run.py:_redirect():2227] redirect: wrap_raw
+2025-05-20 16:30:53,996 INFO    MainThread:24176 [wandb_run.py:_redirect():2292] Wrapping output streams.
+2025-05-20 16:30:53,997 INFO    MainThread:24176 [wandb_run.py:_redirect():2315] Redirects installed.
+2025-05-20 16:30:53,997 INFO    MainThread:24176 [wandb_init.py:init():1032] run started, returning control to user process
+2025-05-20 16:30:54,254 INFO    MainThread:24176 [wandb_run.py:_finish():2112] finishing run shivasurya-iit-madras/DA6401-assig-3/u00fam3a
+2025-05-20 16:30:54,255 INFO    MainThread:24176 [wandb_run.py:_atexit_cleanup():2340] got exitcode: 0
+2025-05-20 16:30:54,255 INFO    MainThread:24176 [wandb_run.py:_restore():2322] restore
+2025-05-20 16:30:54,255 INFO    MainThread:24176 [wandb_run.py:_restore():2328] restore done
+2025-05-20 16:30:56,696 INFO    MainThread:24176 [wandb_run.py:_footer_history_summary_info():3956] rendering history
+2025-05-20 16:30:56,697 INFO    MainThread:24176 [wandb_run.py:_footer_history_summary_info():3988] rendering summary
+2025-05-20 16:30:56,698 INFO    MainThread:24176 [wandb_run.py:_footer_sync_info():3917] logging synced files

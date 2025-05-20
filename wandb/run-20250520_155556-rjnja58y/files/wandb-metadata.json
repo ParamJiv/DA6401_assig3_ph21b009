@@ -1,0 +1,38 @@
+{
+  "os":  "Windows-11-10.0.26100-SP0",
+  "python":  "CPython 3.12.7",
+  "startedAt":  "2025-05-20T10:25:56.344519Z",
+  "program":  "d:\\Academic\\Sem 8\\DA6400 - RL\\DL - shivasurya\\da6401-assig3-nb.ipynb",
+  "codePath":  "da6401-assig3-nb.ipynb",
+  "email":  "pcdpm4@gmail.com",
+  "root":  "d:\\Academic\\Sem 8\\DA6400 - RL\\DL - shivasurya",
+  "host":  "LAPTOP-U1PUH2P4",
+  "executable":  "c:\\Users\\PARAM\\anaconda3\\python.exe",
+  "codePathLocal":  "da6401-assig3-nb.ipynb",
+  "cpu_count":  4,
+  "cpu_count_logical":  8,
+  "gpu":  "NVIDIA GeForce GTX 1650",
+  "gpu_count":  1,
+  "disk":  {
+    "/":  {
+      "total":  "499491270656",
+      "used":  "121139851264"
+    }
+  },
+  "memory":  {
+    "total":  "8419024896"
+  },
+  "cpu":  {
+    "count":  4,
+    "countLogical":  8
+  },
+  "gpu_nvidia":  [
+    {
+      "name":  "NVIDIA GeForce GTX 1650",
+      "memoryTotal":  "4294967296",
+      "cudaCores":  896,
+      "architecture":  "Turing"
+    }
+  ],
+  "cudaVersion":  "12.5"
+}

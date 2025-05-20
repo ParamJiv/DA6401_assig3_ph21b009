@@ -1,0 +1,16 @@
+{"time":"2025-05-20T15:55:43.0606474+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"d:\\Academic\\Sem 8\\DA6400 - RL\\DL - shivasurya\\wandb\\run-20250520_155543-tg9dbrah\\logs\\debug-core.log"}
+{"time":"2025-05-20T15:55:43.982059+05:30","level":"INFO","msg":"created new stream","id":"tg9dbrah"}
+{"time":"2025-05-20T15:55:43.982059+05:30","level":"INFO","msg":"stream: started","id":"tg9dbrah"}
+{"time":"2025-05-20T15:55:43.982059+05:30","level":"INFO","msg":"handler: started","stream_id":"tg9dbrah"}
+{"time":"2025-05-20T15:55:43.982059+05:30","level":"INFO","msg":"sender: started","stream_id":"tg9dbrah"}
+{"time":"2025-05-20T15:55:43.982059+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"tg9dbrah"}
+{"time":"2025-05-20T15:55:44.3572744+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-20T15:55:45.5931378+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-05-20T15:55:45.5938667+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-05-20T15:55:46.6102789+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-metadata.json","runtime_seconds":0.9173023,"progress":"983B/983B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.357217,"progress":"385B/385B"},{"desc":"uploading media\\images\\attention_heatmap_ஃபோர்ஸ்.png_0_33abffacb23d3ae30bbf.png","runtime_seconds":0.357217,"progress":"180.8KB/180.8KB"},{"desc":"uploading output.log","runtime_seconds":0.357217},{"desc":"uploading config.yaml","runtime_seconds":0.057676,"progress":"533B/533B"}],"total_operations":5}}
+{"time":"2025-05-20T15:55:47.7007274+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-05-20T15:55:48.1268133+05:30","level":"INFO","msg":"stream: closing","id":"tg9dbrah"}
+{"time":"2025-05-20T15:55:48.1268133+05:30","level":"INFO","msg":"handler: closed","stream_id":"tg9dbrah"}
+{"time":"2025-05-20T15:55:48.1268133+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"tg9dbrah"}
+{"time":"2025-05-20T15:55:48.1273614+05:30","level":"INFO","msg":"sender: closed","stream_id":"tg9dbrah"}
+{"time":"2025-05-20T15:55:48.1279622+05:30","level":"INFO","msg":"stream: closed","id":"tg9dbrah"}

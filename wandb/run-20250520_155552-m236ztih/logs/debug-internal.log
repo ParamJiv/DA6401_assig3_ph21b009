@@ -1,0 +1,16 @@
+{"time":"2025-05-20T15:55:52.3479026+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"d:\\Academic\\Sem 8\\DA6400 - RL\\DL - shivasurya\\wandb\\run-20250520_155552-m236ztih\\logs\\debug-core.log"}
+{"time":"2025-05-20T15:55:52.4703991+05:30","level":"INFO","msg":"created new stream","id":"m236ztih"}
+{"time":"2025-05-20T15:55:52.4703991+05:30","level":"INFO","msg":"stream: started","id":"m236ztih"}
+{"time":"2025-05-20T15:55:52.4703991+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"m236ztih"}
+{"time":"2025-05-20T15:55:52.4703991+05:30","level":"INFO","msg":"handler: started","stream_id":"m236ztih"}
+{"time":"2025-05-20T15:55:52.4703991+05:30","level":"INFO","msg":"sender: started","stream_id":"m236ztih"}
+{"time":"2025-05-20T15:55:52.8140139+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-20T15:55:54.2827146+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-05-20T15:55:54.2832206+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-05-20T15:55:55.3085674+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading media\\images\\attention_heatmap_அக.png_0_5ff906b0f257a7aecacc.png","runtime_seconds":0.3800783,"progress":"140.2KB/140.2KB"},{"desc":"uploading config.yaml","runtime_seconds":0.0719798,"progress":"533B/533B"}],"total_operations":2}}
+{"time":"2025-05-20T15:55:55.9629012+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-05-20T15:55:56.3235469+05:30","level":"INFO","msg":"stream: closing","id":"m236ztih"}
+{"time":"2025-05-20T15:55:56.3235469+05:30","level":"INFO","msg":"handler: closed","stream_id":"m236ztih"}
+{"time":"2025-05-20T15:55:56.3235469+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"m236ztih"}
+{"time":"2025-05-20T15:55:56.3455159+05:30","level":"INFO","msg":"sender: closed","stream_id":"m236ztih"}
+{"time":"2025-05-20T15:55:56.3455159+05:30","level":"INFO","msg":"stream: closed","id":"m236ztih"}

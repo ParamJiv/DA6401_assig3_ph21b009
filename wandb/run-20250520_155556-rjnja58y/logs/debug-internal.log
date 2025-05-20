@@ -1,0 +1,16 @@
+{"time":"2025-05-20T15:55:56.3465139+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"d:\\Academic\\Sem 8\\DA6400 - RL\\DL - shivasurya\\wandb\\run-20250520_155556-rjnja58y\\logs\\debug-core.log"}
+{"time":"2025-05-20T15:55:56.6337535+05:30","level":"INFO","msg":"created new stream","id":"rjnja58y"}
+{"time":"2025-05-20T15:55:56.6337535+05:30","level":"INFO","msg":"stream: started","id":"rjnja58y"}
+{"time":"2025-05-20T15:55:56.6337535+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"rjnja58y"}
+{"time":"2025-05-20T15:55:56.6337535+05:30","level":"INFO","msg":"handler: started","stream_id":"rjnja58y"}
+{"time":"2025-05-20T15:55:56.6337535+05:30","level":"INFO","msg":"sender: started","stream_id":"rjnja58y"}
+{"time":"2025-05-20T15:55:56.9659037+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-20T15:55:58.5772416+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-05-20T15:55:58.5786753+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-05-20T15:55:59.5946154+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading media\\images\\attention_heatmap_அகச்சிவப்பு.png_0_fdb1c66cd999d8f277eb.png","runtime_seconds":0.4698256,"progress":"250.2KB/250.2KB"},{"desc":"uploading config.yaml","runtime_seconds":0.1779807,"progress":"533B/533B"}],"total_operations":2}}
+{"time":"2025-05-20T15:56:00.4184411+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-05-20T15:56:00.8249436+05:30","level":"INFO","msg":"stream: closing","id":"rjnja58y"}
+{"time":"2025-05-20T15:56:00.8249436+05:30","level":"INFO","msg":"handler: closed","stream_id":"rjnja58y"}
+{"time":"2025-05-20T15:56:00.8249436+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"rjnja58y"}
+{"time":"2025-05-20T15:56:00.8269507+05:30","level":"INFO","msg":"sender: closed","stream_id":"rjnja58y"}
+{"time":"2025-05-20T15:56:00.8269507+05:30","level":"INFO","msg":"stream: closed","id":"rjnja58y"}

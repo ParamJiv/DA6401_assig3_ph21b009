@@ -1,0 +1,16 @@
+{"time":"2025-05-20T16:30:29.4527956+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"d:\\Academic\\Sem 8\\DA6400 - RL\\DL - shivasurya\\wandb\\run-20250520_163029-intnzlf9\\logs\\debug-core.log"}
+{"time":"2025-05-20T16:30:30.9447456+05:30","level":"INFO","msg":"created new stream","id":"intnzlf9"}
+{"time":"2025-05-20T16:30:30.9470562+05:30","level":"INFO","msg":"stream: started","id":"intnzlf9"}
+{"time":"2025-05-20T16:30:30.9470562+05:30","level":"INFO","msg":"sender: started","stream_id":"intnzlf9"}
+{"time":"2025-05-20T16:30:30.9459457+05:30","level":"INFO","msg":"handler: started","stream_id":"intnzlf9"}
+{"time":"2025-05-20T16:30:30.9464883+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"intnzlf9"}
+{"time":"2025-05-20T16:30:31.6105383+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-20T16:30:34.2212024+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-05-20T16:30:34.2240818+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-05-20T16:30:35.2453127+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading media\\images\\lstm_connectivity_heatmap_அகத்தீஸ்வரர்.png_0_1d91b537bf3af8a94eb3.png","runtime_seconds":0.4193882,"progress":"363.8KB/363.8KB"},{"desc":"uploading config.yaml","runtime_seconds":0.0580461,"progress":"528B/528B"}],"total_operations":2}}
+{"time":"2025-05-20T16:30:36.3304909+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-05-20T16:30:36.6990399+05:30","level":"INFO","msg":"stream: closing","id":"intnzlf9"}
+{"time":"2025-05-20T16:30:36.6990399+05:30","level":"INFO","msg":"handler: closed","stream_id":"intnzlf9"}
+{"time":"2025-05-20T16:30:36.6990399+05:30","level":"INFO","msg":"sender: closed","stream_id":"intnzlf9"}
+{"time":"2025-05-20T16:30:36.6990399+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"intnzlf9"}
+{"time":"2025-05-20T16:30:36.6995653+05:30","level":"INFO","msg":"stream: closed","id":"intnzlf9"}

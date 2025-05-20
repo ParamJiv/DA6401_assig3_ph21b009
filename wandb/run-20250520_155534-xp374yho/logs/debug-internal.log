@@ -1,0 +1,16 @@
+{"time":"2025-05-20T15:55:34.9726813+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"d:\\Academic\\Sem 8\\DA6400 - RL\\DL - shivasurya\\wandb\\run-20250520_155534-xp374yho\\logs\\debug-core.log"}
+{"time":"2025-05-20T15:55:35.0903373+05:30","level":"INFO","msg":"created new stream","id":"xp374yho"}
+{"time":"2025-05-20T15:55:35.090898+05:30","level":"INFO","msg":"stream: started","id":"xp374yho"}
+{"time":"2025-05-20T15:55:35.090898+05:30","level":"INFO","msg":"handler: started","stream_id":"xp374yho"}
+{"time":"2025-05-20T15:55:35.090898+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"xp374yho"}
+{"time":"2025-05-20T15:55:35.090898+05:30","level":"INFO","msg":"sender: started","stream_id":"xp374yho"}
+{"time":"2025-05-20T15:55:35.5944882+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-20T15:55:36.8045115+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-05-20T15:55:36.8052027+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-05-20T15:55:37.8123683+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading media\\images\\attention_heatmap_ஃபேஸ்புக்.png_0_44f2df485511fc20e82d.png","runtime_seconds":0.3959125,"progress":"209.9KB/209.9KB"},{"desc":"uploading config.yaml","runtime_seconds":0.0714104,"progress":"533B/533B"}],"total_operations":2}}
+{"time":"2025-05-20T15:55:38.6914899+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-05-20T15:55:39.0457404+05:30","level":"INFO","msg":"stream: closing","id":"xp374yho"}
+{"time":"2025-05-20T15:55:39.0457404+05:30","level":"INFO","msg":"handler: closed","stream_id":"xp374yho"}
+{"time":"2025-05-20T15:55:39.0457404+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"xp374yho"}
+{"time":"2025-05-20T15:55:39.0467478+05:30","level":"INFO","msg":"sender: closed","stream_id":"xp374yho"}
+{"time":"2025-05-20T15:55:39.0467478+05:30","level":"INFO","msg":"stream: closed","id":"xp374yho"}

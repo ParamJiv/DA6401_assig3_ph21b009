@@ -1,0 +1,20 @@
+method: bayes
+
+parameters:
+  input_embedding_size:
+    values: [16, 32, 64, 128]
+
+  encoder_layers:
+    values: [1, 2, 3]
+
+  decoder_layers:
+    values: [1, 2, 3]
+
+  hidden_layer_size:
+    values: [16, 32, 64, 256]
+
+  cell_type:
+    values: ["RNN", "GRU", "LSTM"]
+
+  dropout:
+    values: [0.2, 0.3]  # 20%, 30%

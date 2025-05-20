@@ -1,0 +1,16 @@
+{"time":"2025-05-20T15:43:57.1358483+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"d:\\Academic\\Sem 8\\DA6400 - RL\\DL - shivasurya\\wandb\\run-20250520_154357-pj31108c\\logs\\debug-core.log"}
+{"time":"2025-05-20T15:43:58.3699879+05:30","level":"INFO","msg":"created new stream","id":"pj31108c"}
+{"time":"2025-05-20T15:43:58.3699879+05:30","level":"INFO","msg":"stream: started","id":"pj31108c"}
+{"time":"2025-05-20T15:43:58.3699879+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"pj31108c"}
+{"time":"2025-05-20T15:43:58.3699879+05:30","level":"INFO","msg":"handler: started","stream_id":"pj31108c"}
+{"time":"2025-05-20T15:43:58.3699879+05:30","level":"INFO","msg":"sender: started","stream_id":"pj31108c"}
+{"time":"2025-05-20T15:43:58.7204921+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-20T15:44:00.2939563+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-05-20T15:44:00.2944601+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-05-20T15:44:01.3137313+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading media\\images\\connectivity_image_அகராதி_0_b42778e9a57d90d41261.png","runtime_seconds":0.348217,"progress":"226.2KB/226.2KB"},{"desc":"uploading config.yaml","runtime_seconds":0.0740674,"progress":"528B/528B"}],"total_operations":2}}
+{"time":"2025-05-20T15:44:02.2775503+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-05-20T15:44:02.6417343+05:30","level":"INFO","msg":"stream: closing","id":"pj31108c"}
+{"time":"2025-05-20T15:44:02.6417343+05:30","level":"INFO","msg":"handler: closed","stream_id":"pj31108c"}
+{"time":"2025-05-20T15:44:02.6417343+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"pj31108c"}
+{"time":"2025-05-20T15:44:02.6417343+05:30","level":"INFO","msg":"sender: closed","stream_id":"pj31108c"}
+{"time":"2025-05-20T15:44:02.6422255+05:30","level":"INFO","msg":"stream: closed","id":"pj31108c"}

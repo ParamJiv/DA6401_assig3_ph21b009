@@ -1,0 +1,16 @@
+{"time":"2025-05-20T15:43:14.6557525+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"d:\\Academic\\Sem 8\\DA6400 - RL\\DL - shivasurya\\wandb\\run-20250520_154314-nhgf68tx\\logs\\debug-core.log"}
+{"time":"2025-05-20T15:43:16.880866+05:30","level":"INFO","msg":"created new stream","id":"nhgf68tx"}
+{"time":"2025-05-20T15:43:16.880866+05:30","level":"INFO","msg":"stream: started","id":"nhgf68tx"}
+{"time":"2025-05-20T15:43:16.880866+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"nhgf68tx"}
+{"time":"2025-05-20T15:43:16.880866+05:30","level":"INFO","msg":"handler: started","stream_id":"nhgf68tx"}
+{"time":"2025-05-20T15:43:16.8813889+05:30","level":"INFO","msg":"sender: started","stream_id":"nhgf68tx"}
+{"time":"2025-05-20T15:43:18.2581978+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-20T15:43:20.8851931+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-05-20T15:43:20.8880193+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-05-20T15:43:21.9093674+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading media\\images\\connectivity_image_அகராதி_0_b42778e9a57d90d41261.png","runtime_seconds":0.735501,"progress":"226.2KB/226.2KB"},{"desc":"uploading config.yaml","runtime_seconds":0.4404294,"progress":"528B/528B"}],"total_operations":2}}
+{"time":"2025-05-20T15:43:22.4952512+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-05-20T15:43:22.8416984+05:30","level":"INFO","msg":"stream: closing","id":"nhgf68tx"}
+{"time":"2025-05-20T15:43:22.8416984+05:30","level":"INFO","msg":"handler: closed","stream_id":"nhgf68tx"}
+{"time":"2025-05-20T15:43:22.8416984+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"nhgf68tx"}
+{"time":"2025-05-20T15:43:22.8416984+05:30","level":"INFO","msg":"sender: closed","stream_id":"nhgf68tx"}
+{"time":"2025-05-20T15:43:22.8416984+05:30","level":"INFO","msg":"stream: closed","id":"nhgf68tx"}
