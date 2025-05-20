@@ -2,7 +2,7 @@
 # Name : ShivaSurya | Roll no : PH21B009
 # Wandb report link : [Link](https://wandb.ai/shivasurya-iit-madras/DA6401-assig-3/reports/PH21B009-ShivaSurya-Assignment-3--VmlldzoxMjg0MTUzMQ?accessToken=15dpli97i1ozzt0nmb9gg41yp1siji9vxmut5lujqskvnu5pkhbjup44koisg82h)
 
-## Kaggle notebook link : [Link](https://www.kaggle.com/code/xfactorb/da6401-assig3-nb) (Used for training)
+## Kaggle notebook link : [Link](https://www.kaggle.com/code/xfactorb/da6401-assig3-nb) (Used for training / same as nb in the repo)
 
 # DA6401 Assignment 3 - Neural Machine Translation (NMT)
 
